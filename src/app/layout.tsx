@@ -13,7 +13,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://your-domain.com"),
+  metadataBase: new URL("https://andrie-pabello-portfolio.vercel.app/"),
   title: {
     default: "Andrie Pabello | Data Analyst",
     template: "%s | Andrie Pabello",
